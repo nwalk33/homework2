@@ -24,3 +24,7 @@ THEN I am presented with a responsive layout that adapts to my viewport
 ## Descrption
 This is my first attempt at what will become my professional coding portfolio. As I create more applications
 and get more experience, I will make adjustments and additions where needed. 
+
+## URL and GitHub
+https://nwalk33.github.io/homework2/
+https://github.com/nwalk33/homework2
